@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/oscarruiz05)
 
-I am a young man with a passion for programming looking for his first job as a junior developer.
+I am a young man with a passion for programming who is looking for new challenges as a junior developer.
 I have experience in laravel.
 
 
