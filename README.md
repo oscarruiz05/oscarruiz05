@@ -8,7 +8,7 @@ I have experience in laravel.
 
 #### Programming languages, databases and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=oscarruiz05&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=oscarruiz05&show_icons=true&hide_border=true&theme=chartreuse-dark" />
 
 <code><img width="11%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
 <code><img width="11%" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
