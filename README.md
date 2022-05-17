@@ -22,5 +22,6 @@ I have experience in laravel.
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
 <code><img width="11%" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></code>
+<code><img width="11%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 </p>
 
