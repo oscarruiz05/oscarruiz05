@@ -27,4 +27,7 @@ I have experience in laravel.
 <code><img width="11%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 </p>
+<br/>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="oscarruiz05 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarruiz05&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
 
