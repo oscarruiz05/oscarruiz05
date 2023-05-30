@@ -28,7 +28,5 @@ I have experience in laravel, javascript, angular and vue.
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 </p>
 <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="oscarruiz05 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=oscarruiz05&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="oscarruiz05 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=oscarruiz05&bg_color=000000&color=ffffff&line=00ff4c&point=ffffff&area=true&hide_border=true" /></a>
  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="oscarruiz05 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarruiz05&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" width="50%"/></a>
-
-
