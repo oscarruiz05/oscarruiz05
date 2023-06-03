@@ -28,5 +28,6 @@ I have experience in laravel, javascript, angular and vue.
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 </p>
 <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="oscarruiz05 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=oscarruiz05&bg_color=000000&color=ffffff&line=00ff4c&point=ffffff&area=true&hide_border=true" /></a>
+
+
 
