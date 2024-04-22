@@ -100,12 +100,6 @@
       alt="Github Stats" 
       />
     </div>
-<!--     <div>
-      <img
-        src="https://streak-stats.demolab.com?user=oscarruiz05&theme=gotham&hide_border=true&border_radius=5&mode=weekly" 
-        alt="Github Stats"
-        />
-    </div> -->
     <div>
       <img 
         src="https://github-readme-stats-eight-theta.vercel.app/api?username=oscarruiz05&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"
