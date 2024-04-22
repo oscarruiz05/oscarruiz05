@@ -78,7 +78,7 @@
   ![Astro](https://img.shields.io/badge/Astro-DA510B?style=for-the-badge&logo=astro&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-    </p>
+  </p>
 </details>
 
 ---
@@ -95,16 +95,30 @@
   </summary>
   <div align="center">
     <div>
-      <img
-        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oscarruiz05&layout=compact&langs_count=8&theme=gotham&hide_border=true"
-      alt="Github Stats" 
-      />
+      <picture>
+        <source
+          srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oscarruiz05&layout=compact&langs_count=8&theme=gotham&hide_border=true"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oscarruiz05&layout=compact&langs_count=8&theme=graywhite&hide_border=false"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img />
+      </picture>
     </div>
     <div>
-      <img 
-        src="https://github-readme-stats-eight-theta.vercel.app/api?username=oscarruiz05&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"
-        alt="Github Stats"
+      <picture>
+        <source
+          srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=oscarruiz05&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"
+          media="(prefers-color-scheme: dark)"
         />
+        <source
+          srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=oscarruiz05&show_icons=true&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img />
+      </picture>
     </div>
   </div>
 </details>
@@ -158,4 +172,3 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=oscarruiz05&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-
