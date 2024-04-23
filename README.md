@@ -1,4 +1,4 @@
-#
+[Comment: Header]: #
 
 <div align="center">
   <h1 align="center">👋 Hi, I’m Oscar Ruiz</h1>
@@ -62,7 +62,7 @@
   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Angular](https://img.shields.io/badge/Angular%20-%23dd0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-  ![Vue](https://img.shields.io/badge/Vue%20-%2342b883.svg?style=for-the-badge&logo=vue&logoColor=white)
+  ![Vue](https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)
   
   ![Laravel](https://img.shields.io/badge/Laravel%20-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%ff2d20)
   ![Nodejs](https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
@@ -120,6 +120,26 @@
         <img />
       </picture>
     </div>
+  </div>
+</details>
+
+<details close>
+  <summary>
+      <img 
+        src="icons/GitHub.svg"
+        width="15"
+        height="15"
+        align="center"
+        alt="Github Icon"/>
+      <span>CONTRIBUTIONS</span>
+  </summary>
+  <div>
+    
+- [Cootranshuila](https://cootranshuila.com/)
+- [Hermes Cootranshuila](https://hermes.cootranshuila.com/)
+- [MetEod](https://eod.metgroupsas.com/)
+- [MetPay](https://pay.metgroupsas.com/)
+
   </div>
 </details>
 
