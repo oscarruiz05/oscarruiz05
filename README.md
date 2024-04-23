@@ -63,6 +63,7 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Angular](https://img.shields.io/badge/Angular%20-%23dd0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![Vue](https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)
+  ![Astro](https://img.shields.io/badge/Astro-DA510B?style=for-the-badge&logo=astro&logoColor=white)
   
   ![Laravel](https://img.shields.io/badge/Laravel%20-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%ff2d20)
   ![Nodejs](https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
@@ -75,7 +76,6 @@
 - **Learning**:
   
   ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Astro](https://img.shields.io/badge/Astro-DA510B?style=for-the-badge&logo=astro&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
   </p>
