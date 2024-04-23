@@ -55,6 +55,7 @@
 
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![PHP](https://img.shields.io/badge/PHP%20-%234169E1.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![DART](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 - **Full Stack Development**:
 
@@ -77,6 +78,7 @@
   
   ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=%2361DAFB)
 
   </p>
 </details>
