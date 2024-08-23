@@ -62,6 +62,7 @@
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Angular](https://img.shields.io/badge/Angular%20-%23dd0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![Vue](https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)
   ![Astro](https://img.shields.io/badge/Astro-DA510B?style=for-the-badge&logo=astro&logoColor=white)
@@ -77,8 +78,7 @@
 - **Learning**:
   
   ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=%2361DAFB)
+  ![Spring Boot](https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 
   </p>
 </details>
