@@ -79,6 +79,7 @@
   ![Sequelize](https://img.shields.io/badge/Sequelize-43B049?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 - **Learning**:
+  
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
   
 
