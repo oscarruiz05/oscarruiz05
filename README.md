@@ -17,7 +17,7 @@
     <h4 align="center">
       Software Developer |
       <a
-        href="https://oscarruiz.site/"
+        href="https://oscar-ruiz.vercel.app/"
         title="Portfolio"
         target="_blank"
         rel="noopener noreferrer">
@@ -25,7 +25,7 @@
       </a>
       |
       <a
-        href="https://oscarruiz.site/"
+        href="https://oscar-ruiz.vercel.app/"
         title="Curriculum"
         target="_blank"
         rel="noopener noreferrer">
@@ -172,7 +172,7 @@
           height="30"/>
       </a>
       <a 
-        href="https://oscarruiz.site/"
+        href="https://oscar-ruiz.vercel.app/"
         title="Personal Web"
         target="blank"
         rel="noopener noreferrer">
